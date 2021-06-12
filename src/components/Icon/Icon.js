@@ -6,7 +6,7 @@ import {faShoppingCart} from '@fortawesome/free-solid-svg-icons'
  class Icon extends Component {
   render() {
     return (
-      <div style={{fontSize:"2em",position:'absolute',top:0,right:"1%"}}>
+      <div style={{fontSize:"2em",position:'absolute',top:5,right:"25%"}}>
         <FontAwesomeIcon icon={faShoppingCart} />
       </div>
     )
