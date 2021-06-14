@@ -1,15 +1,26 @@
-.navBarStyle{
-    background: #741d51; /* Old browsers */
-    background: -moz-linear-gradient(left, rgb(8, 8, 151) 0%, yellow 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left, rgb(54, 54, 158) 0%,yellow 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right, rgb(99, 99, 209) 0%,rgb(255, 255, 152) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#741d51', endColorstr='#e44e52',GradientType=1 ); /* IE6-9 */
-    max-width: 1000px;
-    display: flex;
-    justify-content: start;
-    margin: 0 auto;
-    
+.navBarStyle {
+  background: #741d51; /* Old browsers */
+  background: -moz-linear-gradient(
+    left,
+    rgb(8, 8, 151) 0%,
+    yellow 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    left,
+    rgb(54, 54, 158) 0%,
+    yellow 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    rgb(99, 99, 209) 0%,
+    rgb(255, 255, 152) 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#741d51', endColorstr='#e44e52',GradientType=1 ); /* IE6-9 */
+  max-width: 1000px;
+  display: flex;
+  justify-content: start;
+  margin: 0 auto;
 }
-h1{
-    color:white;
+h1 {
+  color: white;
 }

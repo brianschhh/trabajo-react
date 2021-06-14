@@ -1,5 +1,9 @@
-.userCard {
+.SectionCounter {
   display: flex;
   justify-content: center;
+}
+
+.span {
+  width: 30px;
   text-align: center;
 }
